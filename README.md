@@ -1,47 +1,40 @@
-# Hi, I'm Gustaf!
+# Gustaf Ardbo
 
-I'm a Computer and Systems Sciences student at Stockholm University, currently completing an exchange semester at the National University of Singapore (NUS).
+Computer and Systems Sciences student at Stockholm University, currently on exchange at the National University of Singapore (NUS).
 
-I enjoy software development, solving technical problems, and understanding how complex systems work. My main interests are backend development, software architecture, and distributed systems.
-
-I'm expecting to graduate in June 2027 and am interested in starting my career as a Software Engineer or Backend Developer in Stockholm.
-
-## Technical Skills
-
-**Languages:** Java, Python, C++, SQL
-
-**Backend:** Spring Boot, Spring Security, REST APIs, JPA, MariaDB, PostgreSQL
-
-**Testing & CI/CD:** JUnit 5, Mockito, Maven, Jenkins, GitHub Actions
-
-**Other:** Git, Linux, Android Studio, ESP32, WebSockets
-
-## Featured Projects
+## Projects
 
 ### Naturkollen — Nature Identification Application
+**Java · Spring Boot · MariaDB · REST APIs · Jenkins**
 
-A university software engineering project where I led most of the backend development using Java and Spring Boot.
+A nature identification application developed as a university software engineering project.
 
-I was responsible for backend services, REST APIs, authentication, and integration between the frontend, backend, and external cloud services. I also worked with automated testing and CI/CD pipelines.
+- Led backend development, implementing nearly all backend services, business logic and REST APIs.
+- Responsible for integrating the frontend, backend and external cloud services, including PlantNet, Google Vision and Google Cloud Storage.
+- Implemented authentication with Spring Security and automated testing and deployment using Jenkins, Maven and JUnit.
 
 ### [NodiFlux — Decentralized IoT Mesh Network](https://github.com/zak-off-zak/nodiflux)
+**C++ · Java · ESP32 · ESP-NOW · WebSockets**
 
-An open-source networking protocol developed in C++ for ESP32 devices, together with Zakhar Zinkevich.
+An open-source, decentralized mesh communication protocol for IoT devices, developed together with Zakhar Zinkevich.
 
-We designed a decentralized communication architecture with node discovery, multi-hop routing, message acknowledgements, and retry mechanisms using ESP-NOW.
+- Co-designed the C++ networking architecture, including node discovery, multi-hop routing, acknowledgements and retry mechanisms.
+- Developed most of the [Android application](https://github.com/GustafArdbo/nodiflux-frontend) in Java, enabling peer-to-peer messaging through WebSockets.
+- Published under the BSD 3-Clause License.
 
-We also developed the [companion Android application](https://github.com/GustafArdbo/nodiflux-frontend) in Java, enabling messaging through WebSocket communication.
+### [ISO 27001 Platform](https://github.com/GustafArdbo/iso27001-backend)
+**Java · Spring Boot · PostgreSQL · Supabase · Flyway**
 
-### [ISO 27001 Platform — Backend](https://github.com/GustafArdbo/iso27001-backend)
+A web-based platform for ISO 27001 readiness assessments and organisational information security management.
 
-A Spring Boot application for ISO 27001 readiness assessments and organisational security management.
-
-Built using Java, PostgreSQL, Supabase authentication, and Flyway database migrations.
+- Backend supporting organisation management, role-based access control and security assessments.
+- JWT-based authentication, REST APIs and database migrations.
 
 ### [Advent of Code 2025](https://github.com/GustafArdbo/aoc2025)
+**Java · Algorithms · Data Structures**
 
-Algorithmic programming challenges solved in Java, focusing on problem-solving, data structures, and programming techniques.
+Solutions to algorithmic programming challenges from Advent of Code 2025.
 
-## Connect
+---
 
-[LinkedIn](https://www.linkedin.com/in/gustaf-ardbo-b3b3ba203/) | [GitHub](https://github.com/GustafArdbo)
+[LinkedIn](https://www.linkedin.com/in/gustaf-ardbo-b3b3ba203/)
