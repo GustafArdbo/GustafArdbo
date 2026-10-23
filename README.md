@@ -4,8 +4,12 @@ Computer and Systems Sciences student at Stockholm University, currently on exch
 
 ## Projects
 
-### Naturkollen — Nature Identification Application
+
+### [Naturkollen — Nature Identification Application](https://github.com/pvt-15/pvt-15-backend)
 **Java · Spring Boot · MariaDB · REST APIs · Jenkins**
+
+**Source code:** [Backend (Java / Spring Boot)](https://github.com/pvt-15/pvt-15-backend) · [Frontend (Flutter / Dart)](https://github.com/pvt-15/pvt-15-frontend)
+
 
 A nature identification application developed as a university software engineering project.
 
