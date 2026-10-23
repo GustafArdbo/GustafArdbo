@@ -19,7 +19,7 @@ A nature identification application developed as a university software engineeri
 An open-source, decentralized mesh communication protocol for IoT devices, developed together with Zakhar Zinkevich.
 
 - Co-designed the C++ networking architecture, including node discovery, multi-hop routing, acknowledgements and retry mechanisms.
-- Developed most of the [Android application](https://github.com/GustafArdbo/nodiflux-frontend) in Java, enabling peer-to-peer messaging through WebSockets.
+- Developed the [Android application](https://github.com/GustafArdbo/nodiflux-frontend) together in Java, enabling peer-to-peer messaging through WebSockets.
 - Published under the BSD 3-Clause License.
 
 ### [ISO 27001 Platform](https://github.com/GustafArdbo/iso27001-backend)
